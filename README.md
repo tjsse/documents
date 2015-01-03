@@ -13,7 +13,7 @@ sequence diagram：
 
 ***
 [JASO_USECASE]:https://www.processon.com/view/link/54a298bee4b011a75be4de58
-[添加商家]:https://www.processon.com/diagraming/54a4f15de4b0afd11bb3d6a6
+[添加商家]:http://www.processon.com/view/link/54a4fef2e4b006bb55ac75d8
 [商家登陆]:http://www.processon.com/view/link/54a4ff0be4b006bb55ac75fb
 [添加活动]:http://www.processon.com/view/link/54a4ff30e4b0afd11bb3ebbe
 [查看商品]:http://www.processon.com/view/link/54a4ff48e4b0afd11bb3ebe3
